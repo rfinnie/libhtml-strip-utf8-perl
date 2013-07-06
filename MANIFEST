@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/HTML-Strip-UTF8.t
+lib/HTML/Strip/UTF8.pm
